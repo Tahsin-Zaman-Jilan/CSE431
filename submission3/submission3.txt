@@ -15,7 +15,7 @@ Two public link to the Concept Map (anyone on the internet can view without logi
 
 
 
-Link to the book: https://web.stanford.edu/~jurafsky/slp3/
+Link to the book: https://www.nltk.org/book/
 
 Link to the book chapter: https://www.nltk.org/book/ch03.html
 
