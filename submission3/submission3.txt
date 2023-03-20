@@ -4,7 +4,7 @@ NLP with Python (NLTK book)
 
 
 Link to unlisted youtube video: 
-https://www.youtube.com/watch?v=Jf56m1EdW84&list=PL3MMAagC2-Q-0AbETt0gkjtjqodhkoqhb&index=2
+https://www.youtube.com/watch?v=OSsueClXlWI
 
 
 Two public link to the Concept Map (anyone on the internet can view without login): 
