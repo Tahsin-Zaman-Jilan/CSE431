@@ -1,0 +1,12 @@
+Paper title:
+The effectiveness  of different deep learning models in detecting hate speech on social media
+
+Overleaf link:
+https://www.overleaf.com/read/zkjnfgsngzpm
+
+Group Number: 30
+
+20101005	Mahmadur Rahman Tusher
+20101342	Rafsan Zamil
+20101581	Tahsin Zaman Jilan
+20301273	Salman F. Rahman
