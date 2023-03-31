@@ -1,6 +1,9 @@
 Paper title:
 The effectiveness  of different deep learning models in detecting hate speech on social media
 
+Link to unlisted YouTube video:
+https://youtu.be/TRcbGoFfg_c
+
 Overleaf link:
 https://www.overleaf.com/read/zkjnfgsngzpm
 
