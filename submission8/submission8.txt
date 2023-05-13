@@ -23,7 +23,7 @@ Conference Name:
 Innovations in Intelligent Systems and Applications Conference
 
 Conference URL:
-https://cmt3.research.microsoft.com/ASYU2023
+http://asyu.inista.org/EN/
 
 Group Number:
 33
