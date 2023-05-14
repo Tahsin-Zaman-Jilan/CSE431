@@ -1,0 +1,34 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/read/zkjnfgsngzpm
+
+Unlisted YouTube video:
+https://youtu.be/z5cSh7F4q-4
+
+Conference submitted paper / paper submission / login Link:
+https://edas.info/listConferencesAuthor.php?c=30216
+
+Paper title:
+The Effectiveness of Different Deep Learning Models in Detecting Hate Speech on Social Media
+
+Paper presentation (anyone can view without login):
+N/A
+
+Paper submission date (to workshop/conference):
+14/5/2023
+
+Paper submission ID: (received) from conference/workshop
+1570912099
+
+Conference Name:
+2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
+
+Conference URL:
+https://r10htc2023.org/
+
+
+Group Number: 06
+
+20101005	Mahmadur Rahman Tusher
+20101342	Rafsan Zamil
+20101581	Tahsin Zaman Jilan
+20301273	Salman F. Rahman
